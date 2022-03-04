@@ -1,4 +1,6 @@
-### Olá, seja bem vindo(a)! Eu sou o William Felix
+<div>
+  <h1 align="center"> Olá, seja bem vindo(a)! Eu sou o <a href="https://www.linkedin.com/in/william-felix-018493186"><i>William Felix 😎</i></a> </h1>
+</div>
 
 - ☕ Programação: estudando Java e programação orientada a objetos.
 - 🔌 Eletrônica: Sistemas Microcontrolados, Sistemas de Áudio e Vídeo, Telecomunicações.
@@ -6,11 +8,12 @@
 
 <div align="center">
   <a href="https://github.com/willfelixd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willfelixd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willfelixd&layout=compact&langs_count=7&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=willfelixd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willfelixd&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
   
-  <div style="display: inline_block"><br>
+  <div align="center" valign="top"><br>
   <img align="center" alt="Will-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Will-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -20,11 +23,9 @@
   <img align="center" alt="Will-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Will-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Will-Tomcat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg">
-  </div>
-
-  ##
+  </div><br>
  
-<div> 
+<div align="center"> 
   <a href="https://www.linkedin.com/in/william-felix-018493186" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href ="https://api.whatsapp.com/send?phone=5583988167942" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href ="mailto:willfelixd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -32,12 +33,14 @@
   <a href="https://www.facebook.com/profile.php?id=100007890798673" target="_blank"><img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white target="_blank"></a>
 </div>
   
-
-  ![Snake animation](https://github.com/willfelixd/willfelixd/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">
   
-<div align:"center"> 
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  ![Snake animation](https://github.com/willfelixd/willfelixd/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+  
+<div align="center"> 
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> e <a href="https://github.com/duribeiro">Eduardo Ribeiro</a></p>
 </div>
   
   
