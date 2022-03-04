@@ -1,9 +1,9 @@
 <div>
-  <h1 align="center"> Olá, seja bem vindo(a)! Eu sou o <a href="https://www.linkedin.com/in/william-felix-018493186"><i>William Felix 😎</i></a> </h1>
+  <h1 align="center"> Olá, seja bem vindo(a)! Eu sou o <a href="https://www.linkedin.com/in/william-felix-018493186"><i>William Felix 👨‍💻</i></a> </h1>
 </div>
 
 - ☕ Programação: estudando Java e programação orientada a objetos.
-- 🔌 Eletrônica: Sistemas Microcontrolados, Sistemas de Áudio e Vídeo, Telecomunicações.
+- 🔌 Eletrônica: Sistemas Microcontrolados, Sistemas de Áudio e Vídeo e Telecomunicações.
 - 💡 "Algumas pessoas acham que foco significa dizer sim para a coisa em que você vai se focar. Mas não é nada disso. Significa dizer não às centenas de outras boas ideias que existem. Você precisa selecionar cuidadosamente." (Steve Jobs).
 
 <div align="center">
