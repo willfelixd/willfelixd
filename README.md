@@ -23,6 +23,16 @@
    <img width="568" height="308" src=https://github.com/willfelixd/willfelixd/blob/main/Focus.gif>
 
 </p>
+
+<div>
+  <h2 align="center"> Sobre mim: </a></h2>
+</div>
+
+Sou apaixonado por tecnologia e aprender coisas novas. Ao longo da minha vida, sempre encarei os desafios como grandes oportunidades de mudança e chance de dar a volta por cima em situações difíceis de resolver. 
+
+A persistência é a minha maior qualidade, pois não desisto fácil e vou até o fim para conseguir os objetivos.
+
+Gosto de resolver problemas e de ajudar as pessoas, isso me move e motiva a querer fazer algo novo, que ainda não foi pensado, e que trará benefícios para todos.
   
 <div align="center">
   <a href="https://github.com/willfelixd">
