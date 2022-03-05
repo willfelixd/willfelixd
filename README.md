@@ -32,7 +32,7 @@ Sou apaixonado por tecnologia e aprender coisas novas. Ao longo da minha vida, s
 
 A persistência é a minha maior qualidade, pois não desisto fácil e vou até o fim para conseguir os objetivos.
 
-Gosto de resolver problemas e de ajudar as pessoas, isso me move e motiva a querer fazer algo novo, que ainda não foi pensado, e que trará benefícios para todos.
+Gosto de resolver problemas e de ajudar as pessoas, isso me move e me motiva a querer fazer algo novo, que ainda não foi pensado, e que trará benefícios para todos.
   
 <div align="center">
   <a href="https://github.com/willfelixd">
