@@ -7,7 +7,7 @@
 - 💡 "Algumas pessoas acham que foco significa dizer sim para a coisa em que você vai se focar. Mas não é nada disso. Significa dizer não às centenas de outras boas ideias que existem. Você precisa selecionar cuidadosamente." (Steve Jobs).
 - 
 <div>
-  <h2 align="center"> Contatos e redes sociais </a></h2>
+  <h2 align="center"> Contatos e redes sociais: </a></h2>
 </div>
     
 <div align="center"> 
