@@ -5,7 +5,11 @@
 - ☕ Programação: estudando Java e programação orientada a objetos.
 - 🔌 Eletrônica: Sistemas Microcontrolados, Sistemas de Áudio e Vídeo e Telecomunicações.
 - 💡 "Algumas pessoas acham que foco significa dizer sim para a coisa em que você vai se focar. Mas não é nada disso. Significa dizer não às centenas de outras boas ideias que existem. Você precisa selecionar cuidadosamente." (Steve Jobs).
-
+- 
+<div>
+  <h2 align="center"> Contatos e redes sociais </a></h2>
+</div>
+    
 <div align="center"> 
   <a href="https://www.linkedin.com/in/william-felix-018493186" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href ="https://api.whatsapp.com/send?phone=5583988167942" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
