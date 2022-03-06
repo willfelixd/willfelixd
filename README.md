@@ -62,7 +62,7 @@ Gosto de resolver problemas e de ajudar as pessoas, isso me move e me motiva a q
 
 <p align="center">
   
-   <img width="200" height="250" src= https://github.com/willfelixd/willfelixd/blob/main/ezgif-4-164e7321b7.gif>
+   <img width="180" height="220" src= https://github.com/willfelixd/willfelixd/blob/main/ezgif-4-164e7321b7.gif>
  
 </p>
   
