@@ -59,6 +59,12 @@ Gosto de resolver problemas e de ajudar as pessoas, isso me move e me motiva a q
   ![Snake animation](https://github.com/willfelixd/willfelixd/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+<p align="center">
+  
+   <img width="200" height="250" src= https://github.com/willfelixd/willfelixd/blob/main/ezgif-4-164e7321b7.gif>
+ 
+</p>
   
 <div align="center"> 
   <p>Credits to <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> and <a href="https://github.com/duribeiro">Eduardo Ribeiro</a>.</p>
