@@ -19,7 +19,7 @@
 
  <p align="center">
   
-   <img width="568" height="308" src=https://github.com/willfelixd/willfelixd/blob/main/Focus.gif>
+   <img width="568" height="308" src="https://github.com/willfelixd/willfelixd/blob/main/Focus.gif">
 
 </p>
 
