@@ -1,15 +1,13 @@
 <div>
   <h1 align="center"> Olá, seja bem vindo(a)! Eu sou o <a href="https://www.linkedin.com/in/william-felix-018493186"><i>William Felix 👨‍💻</i></a> </h1>
-</div>
+</div><br />
 
-<li align="justify">☕ Programação: estudando Java e programação orientada a objetos.</li>
-<li align="justify">🔌 Eletrônica: Sistemas Microcontrolados, Sistemas de Áudio e Vídeo e Telecomunicações.</li><br />
-<p align="justify"><em>"Algumas pessoas acham que foco significa dizer sim para a coisa em que você vai se focar. Mas não é nada disso. Significa dizer não às centenas de outras boas ideias que existem. Você precisa selecionar cuidadosamente." (Steve Jobs)</em></p>
+<p align="center"><em>"Algumas pessoas acham que foco significa dizer sim para a coisa em que você vai se focar. <br />Mas não é nada disso. <br />Significa dizer não às centenas de outras boas ideias que existem. <br />Você precisa selecionar cuidadosamente." <br />(Steve Jobs)</em></p>
 
 
 <div>
   <h2 align="center"> Contatos e redes sociais: </a></h2>
-</div>
+</div><br />
     
 <div align="center"> 
   <a href="https://www.linkedin.com/in/william-felix-018493186" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -27,7 +25,7 @@
 
 <div>
   <h2 align="center"> Sobre mim: </a></h2>
-</div>
+</div><br />
 
 <p align="justify">
 Sou apaixonado por tecnologia e aprender coisas novas. Ao longo da minha vida, sempre encarei os desafios como grandes oportunidades de mudança e chance de dar a volta por cima em situações difíceis de resolver. 
@@ -35,7 +33,11 @@ Sou apaixonado por tecnologia e aprender coisas novas. Ao longo da minha vida, s
 A persistência é a minha maior qualidade, pois não desisto fácil e vou até o fim para conseguir os objetivos.
 
 Gosto de resolver problemas e de ajudar as pessoas, isso me move e me motiva a querer fazer algo novo, que ainda não foi pensado, e que trará benefícios para todos.
-</p><br />
+</p>
+<li align="justify">☕ Programação: estudando Java e programação orientada a objetos.</li>
+<li align="justify">🔌 Eletrônica: Sistemas Microcontrolados, Sistemas de Áudio e Vídeo e Telecomunicações.</li>
+<br />
+<br />
   
 <div align="center">
   <a href="https://github.com/willfelixd">
