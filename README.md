@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"> Olá, seja bem vindo(a)! Eu sou o <a href="https://www.linkedin.com/in/william-felix-018493186"><i>William Felix 👨‍💻</i></a> </h1>
+  <h1 align="center"> Olá, seja bem vindo(a)! Eu sou o <a href="https://www.linkedin.com/in/william-felix-018493186"><i>William Felix </i></a> </h1>
 </div><br />
 
 <p align="center"><em>"Algumas pessoas acham que foco significa dizer sim para a coisa em que você vai se focar. <br />Mas não é nada disso. <br />Significa dizer não às centenas de outras boas ideias que existem. <br />Você precisa selecionar cuidadosamente." <br />(Steve Jobs)</em></p>
@@ -32,40 +32,27 @@ Sou apaixonado por tecnologia e aprender coisas novas. Ao longo da minha vida, s
 
 A persistência é a minha maior qualidade, pois não desisto fácil e vou até o fim para conseguir os objetivos.
 
-Gosto de resolver problemas e de ajudar as pessoas, isso me move e me motiva a querer fazer algo novo, que ainda não foi pensado, e que trará benefícios para todos.
+Gosto de resolver problemas e de ajudar as pessoas, isso me move e me motiva a querer fazer algo novo, que ainda não foi pensado.
 </p>
-<li align="justify">☕ Programação: estudando Java e programação orientada a objetos.</li>
-<li align="justify">🔌 Eletrônica: Sistemas Microcontrolados, Sistemas de Áudio e Vídeo e Telecomunicações.</li>
 <br />
-<br />
-  
-<div align="center">
-  <a href="https://github.com/willfelixd">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=willfelixd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willfelixd&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
-  
-  <div align="center" valign="top"><br>
+
+<p align="center">☕ Back-end: Java e Spring</p>
+<div align="center" valign="top">
+    
   <img align="center" alt="Will-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Will-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="Will-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  </div>
+  <br />
+  
+<p align="center">👁‍🗨 Front-end: React, Html e Css</p>
+<div align="center" valign="top">
+    
+  <img align="center" alt="Will-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Will-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Will-Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Will-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Will-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Will-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Will-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Will-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Will-Tomcat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg">
-  
-  </div><br>
- 
-<div align="center">
-  
-  ![Snake animation](https://github.com/willfelixd/willfelixd/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+  </div>
+  <br />
+  <br />
 
 <p align="center">
   
@@ -76,5 +63,3 @@ Gosto de resolver problemas e de ajudar as pessoas, isso me move e me motiva a q
 <div align="center"> 
   <p>Credits to <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> and <a href="https://github.com/duribeiro">Eduardo Ribeiro</a>.</p>
 </div>
-  
-  
