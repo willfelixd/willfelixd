@@ -85,11 +85,7 @@ Busco minha primeira oportunidade como **Desenvolvedor Back-end Java**, onde eu 
 
 ---
 
-💬 **Aberto a oportunidades e conexões!**
-
-<div>
-  <h2> Contatos e redes sociais: </a></h2>
-</div><br />
+## 💬 Aberto a oportunidades e conexões
     
 <div> 
   <a href="https://www.linkedin.com/in/william-felix-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
