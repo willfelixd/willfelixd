@@ -97,7 +97,7 @@ Busco minha primeira oportunidade como **Desenvolvedor Back-end Java**, onde eu 
 
  <p>
   
-   <img width="550" height="308" src="https://github.com/willfelixd/willfelixd/blob/main/Focus.gif">
+   <img width="548" height="308" src="https://github.com/willfelixd/willfelixd/blob/main/Focus.gif">
 
 </p>
 
