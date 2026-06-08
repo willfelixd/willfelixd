@@ -1,25 +1,31 @@
-<h1>💻 <a href="https://www.linkedin.com/in/william-felix-018493186">William Felix</a></h1>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&animation=blinking&color=4580f7" />
+</div>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<h1>💻 <a href="https://www.linkedin.com/in/william-felix-018493186">William Felix</a></h1> 
+
+**`Desenvolvedor Backend Java Spring Boot | SQL | NoSQL | Git | Docker `** 
 
 ---
+
+##### 🔁 [**English version | Versão em inglês**](README-ing.md)
 
 ## 🚀 Sobre mim
 
 Sou desenvolvedor focado em **Back-end com Java e Spring Boot**, construindo APIs REST seguindo boas práticas de mercado.
 
-* 🎯 Em busca de oportunidade como **Desenvolvedor Java Júnior**
+* 🎯 Buscando oportunidades para crescer e gerar impacto real
 * 💡 Focado em desenvolvimento de aplicações reais
-* 🔁 Praticando versionamento profissional com Git e GitHub
+* 💫 Praticando versionamento profissional com Git e GitHub
 * 🧠 Evoluindo constantemente em arquitetura e boas práticas
+
+---
+
+## 🤖 Tech Stack
+
+| Backend | Frontend | Ferramentas
+| :---: | :---: |  :---: |
+| [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mongodb,gradle)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=typescript,nodejs,react,vite,vercel)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postman,git,docker,idea,vscode)](https://skillicons.dev)
 
 ---
 
@@ -35,13 +41,12 @@ Sou desenvolvedor focado em **Back-end com Java e Spring Boot**, construindo API
     </div>
 </p>
 
-## ⚙️ Ferramentas e práticas
+## ⚙️ Práticas
 
-* Git & GitHub
-* Git Flow / Pull Requests
+* Git Flow / Pull Requests / Issues
 * CI/CD (GitHub Actions)
-* Gradle / Maven
 * Swagger (documentação de APIs)
+* Deploy (Render)
 
 ---
 
