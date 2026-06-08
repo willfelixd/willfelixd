@@ -23,22 +23,19 @@ Sou desenvolvedor focado em **Back-end com Java e Spring Boot**, construindo API
 
 ---
 
-## 🛠️ Stack Principal
+## 📊 Estatísticas
 
-### ☕ Back-end
+<p>
+    <div>
+      <img
+        height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=willfelixd&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
+      />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    </div>
+</p>
 
-* Java
-* Spring Boot
-* Spring Data JPA
-* Hibernate
-* APIs REST
-
-### 🗄️ Banco de dados
-
-* PostgreSQL
-* MongoDB
-
-### ⚙️ Ferramentas e práticas
+## ⚙️ Ferramentas e práticas
 
 * Git & GitHub
 * Git Flow / Pull Requests
