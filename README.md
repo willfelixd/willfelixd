@@ -8,16 +8,18 @@
 
 ---
 
-##### 🔁 [**English version | Versão em inglês**](README-ing.md)
+<a href="https://github.com/willfelixd/willfelixd/blob/main/README_en.md" target="_blank">
+  <img src="https://img.shields.io/badge/-%20English%20Version-%230077B5?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ## 🚀 Sobre mim
 
 Sou desenvolvedor focado em **Back-end com Java e Spring Boot**, construindo APIs REST seguindo boas práticas de mercado.
 
-* 🎯 Buscando oportunidades para crescer e gerar impacto real
-* 💡 Focado em desenvolvimento de aplicações reais
-* 💫 Praticando versionamento profissional com Git e GitHub
-* 🧠 Evoluindo constantemente em arquitetura e boas práticas
+* 🔹 Buscando oportunidades para crescer e gerar impacto real
+* 🔹 Focado em desenvolvimento de aplicações reais
+* 🔹 Praticando versionamento profissional com Git e GitHub
+* 🔹 Evoluindo constantemente em arquitetura e boas práticas
 
 ---
 
@@ -43,10 +45,10 @@ Sou desenvolvedor focado em **Back-end com Java e Spring Boot**, construindo API
 
 ## ⚙️ Práticas
 
-* Git Flow / Pull Requests / Issues
-* CI/CD (GitHub Actions)
-* Swagger (documentação de APIs)
-* Deploy (Render)
+* 🔹 Git Flow / Pull Requests / Issues
+* 🔹 CI/CD (GitHub Actions)
+* 🔹 Swagger (documentação de APIs)
+* 🔹 Deploy (Render / Vercel)
 
 ---
 
@@ -80,13 +82,13 @@ Atualmente estudando:
 
 Busco minha primeira oportunidade como **Desenvolvedor Back-end Java**, onde eu possa:
 
-* Aplicar conhecimentos em projetos reais
-* Trabalhar com boas práticas e arquitetura moderna
-* Evoluir dentro de um ambiente profissional colaborativo
+* 🔹 Aplicar conhecimentos em projetos reais
+* 🔹 Trabalhar com boas práticas e arquitetura moderna
+* 🔹 Evoluir dentro de um ambiente profissional colaborativo
 
 ---
 
-## ⚡ Diferencial
+## ⚡ O que me diferencia
 
 * ✔ Foco em simular ambiente real de desenvolvimento
 * ✔ Uso de commits profissionais (feat, fix, refactor...)
@@ -95,7 +97,7 @@ Busco minha primeira oportunidade como **Desenvolvedor Back-end Java**, onde eu 
 
 ---
 
-## 💬 Aberto a oportunidades e conexões
+## 💬 Vamos nos conectar?
     
 <div> 
   <a href="https://www.linkedin.com/in/william-felix-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
