@@ -25,9 +25,17 @@ Sou desenvolvedor focado em **Back-end com Java e Spring Boot**, construindo API
 
 ## 🤖 Tech Stack
 
-| Backend | Frontend | Ferramentas
-| :---: | :---: |  :---: |
-| [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mongodb,gradle)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=typescript,nodejs,react,vite,vercel)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postman,git,docker,idea,vscode)](https://skillicons.dev)
+| Backend | 
+| :---: | 
+| [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mongodb,gradle)](https://skillicons.dev) | 
+
+| Frontend | 
+| :---: |  
+| [![My Skills](https://skillicons.dev/icons?i=typescript,nodejs,react,vite,vercel)](https://skillicons.dev) | 
+
+| Ferramentas |
+| :---: |
+| [![My Skills](https://skillicons.dev/icons?i=postman,git,docker,idea,vscode)](https://skillicons.dev) |
 
 ---
 
