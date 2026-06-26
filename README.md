@@ -2,10 +2,10 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&animation=blinking&color=4580f7" />
 </div>
 
+<p align="center"><i>"Jesus Cristo é o Rei dos reis e Senhor dos senhores."</i></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/willfelixd/willfelixd/main/.github/assets/jesus-the-king.png" alt="Jesus the King" width="250" height="300"/>
 </p>
-<p align="center"><i>"Jesus Cristo é o Rei dos reis e Senhor dos senhores."</i></p>
 
 <h1>💻 <a href="https://www.linkedin.com/in/william-felix-souza/">William Felix</a></h1> 
 
