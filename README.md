@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&animation=blinking&color=4580f7" />
 </div>
 
-<p align="center"><i><a href="https://www.bibliaonline.com.br/acf/1tm/6/15" target="_blank">"Jesus Cristo é o Rei dos reis e Senhor dos senhores."</a></i></p>
+<h6 align="center"><i><a href="https://www.bibliaonline.com.br/acf/1tm/6/15">"Jesus Cristo é o Rei dos reis e Senhor dos senhores."</a></i></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/willfelixd/willfelixd/main/.github/assets/jesus-the-king.png" alt="Jesus the King" width="250" height="300"/>
 </p>
