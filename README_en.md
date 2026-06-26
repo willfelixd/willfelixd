@@ -8,7 +8,7 @@
 
 ---
 
-[![Versão em Português](https://img.shields.io/badge/Versão_em_Português-0077B5?style=plastic&logo=googletranslate&logoColor=white)](https://github.com/willfelixd/willfelixd/blob/main/README.md)
+[![Versão em Português](https://img.shields.io/badge/Versão_em_Português-0077B5?style=plastic&logo=googletranslate&logoColor=white)](https://github.com/willfelixd)
 
 ## 🚀 About Me
 
