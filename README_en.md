@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&animation=blinking&color=4580f7" />
 </div>
 
-<p align="center"><i>"Jesus Christ is the King of kings and Lord of lords."</i></p>
+<p align="center"><i><a href="https://www.biblegateway.com/passage/?search=1+Timothy+6%3A15&version=NIV" target="_blank">"Jesus Christ is the King of kings and Lord of lords."</a></i></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/willfelixd/willfelixd/main/.github/assets/jesus-the-king.png" alt="Jesus the King" width="250" height="300"/>
 </p>
