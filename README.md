@@ -2,7 +2,12 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&animation=blinking&color=4580f7" />
 </div>
 
-<h1>💻 <a href="https://www.linkedin.com/in/william-felix-018493186">William Felix</a></h1> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/willfelixd/willfelixd/main/.github/assets/jesus-the-king.png" alt="Jesus the King" width="250" height="300"/>
+</p>
+<p align="center"><i>"Jesus Cristo é o Rei dos reis e Senhor dos senhores."</i></p>
+
+<h1>💻 <a href="https://www.linkedin.com/in/william-felix-souza/">William Felix</a></h1> 
 
 **`Desenvolvedor Backend Java Spring Boot | SQL | NoSQL | Git | Docker `** 
 
@@ -108,7 +113,7 @@ Busco minha primeira oportunidade como **Desenvolvedor Back-end Java**, onde eu 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-felix-souza/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://bit.ly/3SY7K6T) [![Gmail](https://img.shields.io/badge/Gmail-333?style=plastic&logo=gmail&logoColor=white)](mailto:willfelixd@gmail.com?subject=Proposta%20de%20Projeto&body=Olá,%20vi%20seu%20portfólio%20e%20gostaria%20de%20falar%20sobre%20um%20projeto.) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/willfelixd) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007890798673)
 
 <p>
-  <img src="https://github.com/willfelixd/willfelixd/blob/main/.github/assets/souls.gif?raw=true" alt="souls gif" width="700" height="350"/>
+  <img src="https://raw.githubusercontent.com/willfelixd/willfelixd/main/.github/assets/souls.gif" alt="Souls gif" width="700" height="350"/>
 </p>
 
 <br />
