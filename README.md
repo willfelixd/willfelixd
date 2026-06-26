@@ -8,9 +8,7 @@
 
 ---
 
-<a href="https://github.com/willfelixd/willfelixd/blob/main/README_en.md" target="_blank">
-  <img src="https://img.shields.io/badge/-%20English%20Version-%230077B5?style=for-the-badge&logo=github&logoColor=white">
-</a>
+[![English Version](https://img.shields.io/badge/English_Version-0077B5?style=plastic&logo=googletranslate&logoColor=white)](https://github.com/willfelixd/willfelixd/blob/main/README_en.md)
 
 ## 🚀 Sobre mim
 
@@ -106,20 +104,11 @@ Busco minha primeira oportunidade como **Desenvolvedor Back-end Java**, onde eu 
 ---
 
 ## 💬 Vamos nos conectar?
-    
-<div> 
-  <a href="https://www.linkedin.com/in/william-felix-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href ="https://bit.ly/3SY7K6T" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="mailto:willfelixd@gmail.com?subject=Proposta%20de%20Projeto&body=Olá,%20vi%20seu%20portfólio%20e%20gostaria%20de%20falar%20sobre%20um%20projeto.">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email"></a>
-  <a href="https://instagram.com/willfelixd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/profile.php?id=100007890798673" target="_blank"><img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white target="_blank"></a>
-</div>
 
- <p>
-  
-   <img width="546" height="308" src="https://github.com/willfelixd/willfelixd/blob/main/Focus.gif">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-felix-souza/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://bit.ly/3SY7K6T) [![Gmail](https://img.shields.io/badge/Gmail-333?style=plastic&logo=gmail&logoColor=white)](mailto:willfelixd@gmail.com?subject=Proposta%20de%20Projeto&body=Olá,%20vi%20seu%20portfólio%20e%20gostaria%20de%20falar%20sobre%20um%20projeto.) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/willfelixd) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007890798673)
 
+<p>
+  <img src="https://github.com/willfelixd/willfelixd/blob/main/.github/assets/souls.gif?raw=true" alt="souls gif" width="546" height="308"/>
 </p>
 
 <br />
