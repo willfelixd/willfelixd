@@ -90,7 +90,7 @@ Show schedule, repertoire, videos and contact with JWT-protected admin panel.
 
 ---
 
-### ✝️ Patristic API — *In development*
+### ✝️ Patristic — Ask the Fathers — *In development*
 
 REST API + Frontend for exploring the writings of the **Catholic Church Fathers**.  
 Semantic search with pgvector, intelligent chat and Redis cache.
