@@ -12,9 +12,9 @@
 <br/>
 <p>
   <a href="https://github.com/willfelixd">
+    <img src="https://flagcdn.com/28x21/pt.png" alt="PT Flag"/>
     <img src="https://flagcdn.com/28x21/br.png" alt="BR Flag"/>
     <img src="https://img.shields.io/badge/Versão_em_Português-1877F2?style=plastic&logoColor=white"/>
-    <img src="https://flagcdn.com/28x21/pt.png" alt="PT Flag"/>
   </a>
 </p>
 
