@@ -90,7 +90,7 @@ Agenda de shows, repertório, vídeos e contato com painel admin protegido por J
 
 ---
 
-### ✝️ Patristic API — *Em desenvolvimento*
+### ✝️ Patristic — Ask the Fathers — *Em desenvolvimento*
 
 API REST + Frontend para exploração das obras dos **Padres da Igreja Católica**.  
 Busca semântica com pgvector, chat inteligente e cache com Redis.
