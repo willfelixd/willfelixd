@@ -12,9 +12,11 @@
 <br/>
 <p>
   <a href="https://github.com/willfelixd/willfelixd/blob/main/README_en.md">
-    <img src="https://img.shields.io/badge/English_Version-1877F2?style=plastic&logo=googletranslate&logoColor=white"/>
+    <img src="https://flagcdn.com/28x21/gb.png" alt="UK Flag"/>
+    <img src="https://img.shields.io/badge/English_Version-1877F2?style=plastic&logoColor=white"/>
+    <img src="https://flagcdn.com/28x21/us.png" alt="US Flag"/>
   </a>
-</p>
+</p> 
 
 ---
 
@@ -22,15 +24,17 @@
 
 <p align="center">
   Desenvolvedor focado em <b>Back-end com Java e Spring Boot</b>, construindo APIs REST com padrões de mercado.<br/>
-  Busco minha primeira oportunidade como <b>Java Backend Developer</b> para contribuir em projetos reais.
+  Busco minha primeira oportunidade como <b>Desenvolvedor Backend Java</b> para contribuir em projetos reais.
 </p>
 
-<p align="center">
-  🔹 APIs REST com Spring Boot 3, Spring Security e JWT &nbsp;|&nbsp;
-  🔹 Bancos relacionais (PostgreSQL) e NoSQL (Redis, MongoDB)<br/>
-  🔹 CI/CD com GitHub Actions e deploy no Render/Vercel &nbsp;|&nbsp;
-  🔹 Versionamento profissional com Git Flow e Conventional Commits
-</p>
+<div align="center">
+  
+| | |
+|---|---|
+| 🔹 APIs REST com Spring Boot 3, Spring Security e JWT | 🔹 Bancos relacionais (PostgreSQL) e NoSQL (Redis, MongoDB) |
+| 🔹 CI/CD com GitHub Actions e deploy no Render/Vercel | 🔹 Versionamento profissional com Git Flow e Conventional Commits |
+
+</div>
 
 ---
 
@@ -148,14 +152,14 @@ Cartas de treinadores de futebol, modo campanha e ranking global.
 
 ## ⚙️ Práticas de desenvolvimento
 
-<p align="center">
-  🔹 Git Flow com PRs e Issues &nbsp;·&nbsp;
-  🔹 Conventional Commits &nbsp;·&nbsp;
-  🔹 CI/CD com GitHub Actions<br/>
-  🔹 Swagger / OpenAPI 3 &nbsp;·&nbsp;
-  🔹 Testes com JUnit e Mockito &nbsp;·&nbsp;
-  🔹 Deploy Render / Vercel
-</p>
+<div align="center">
+
+| | | |
+|---|---|---|
+| 🔹 Git Flow com PRs e Issues | 🔹 Conventional Commits | 🔹 CI/CD com GitHub Actions |
+| 🔹 Swagger / OpenAPI 3 | 🔹 Testes com JUnit e Mockito | 🔹 Deploy Render / Vercel |
+
+</div>
 
 ---
 
