@@ -12,7 +12,9 @@
 <br/>
 <p>
   <a href="https://github.com/willfelixd">
-    <img src="https://img.shields.io/badge/Versão_em_Português-1877F2?style=plastic&logo=googletranslate&logoColor=white"/>
+    <img src="https://flagcdn.com/28x21/br.png" alt="BR Flag"/>
+    <img src="https://img.shields.io/badge/Versão_em_Português-1877F2?style=plastic&logoColor=white"/>
+    <img src="https://flagcdn.com/28x21/pt.png" alt="PT Flag"/>
   </a>
 </p>
 
@@ -25,12 +27,14 @@
   Seeking my first opportunity as a <b>Java Backend Developer</b> to contribute to real-world projects.
 </p>
 
-<p align="center">
-  🔹 REST APIs with Spring Boot 3, Spring Security and JWT &nbsp;|&nbsp;
-  🔹 Relational (PostgreSQL) and NoSQL (Redis, MongoDB) databases<br/>
-  🔹 CI/CD with GitHub Actions and deploy on Render/Vercel &nbsp;|&nbsp;
-  🔹 Professional versioning with Git Flow and Conventional Commits
-</p>
+<div align="center">
+
+| | |
+|---|---|
+| 🔹 REST APIs with Spring Boot 3, Spring Security and JWT | 🔹 Relational (PostgreSQL) and NoSQL (Redis, MongoDB) databases |
+| 🔹 CI/CD with GitHub Actions and deploy on Render/Vercel | 🔹 Professional versioning with Git Flow and Conventional Commits |
+
+</div>
 
 ---
 
@@ -148,14 +152,14 @@ Football manager cards, campaign mode and global ranking.
 
 ## ⚙️ Development Practices
 
-<p align="center">
-  🔹 Git Flow with PRs and Issues &nbsp;·&nbsp;
-  🔹 Conventional Commits &nbsp;·&nbsp;
-  🔹 CI/CD with GitHub Actions<br/>
-  🔹 Swagger / OpenAPI 3 &nbsp;·&nbsp;
-  🔹 Tests with JUnit and Mockito &nbsp;·&nbsp;
-  🔹 Deploy Render / Vercel
-</p>
+<div align="center">
+
+| | | |
+|---|---|---|
+| 🔹 Git Flow with PRs and Issues | 🔹 Conventional Commits | 🔹 CI/CD with GitHub Actions |
+| 🔹 Swagger / OpenAPI 3 | 🔹 Tests with JUnit and Mockito | 🔹 Deploy Render / Vercel |
+
+</div>
 
 ---
 
