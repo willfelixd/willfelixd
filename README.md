@@ -13,8 +13,8 @@
 <p>
   <a href="https://github.com/willfelixd/willfelixd/blob/main/README_en.md">
     <img src="https://flagcdn.com/28x21/gb.png" alt="UK Flag"/>
-    <img src="https://img.shields.io/badge/English_Version-1877F2?style=plastic&logoColor=white"/>
     <img src="https://flagcdn.com/28x21/us.png" alt="US Flag"/>
+    <img src="https://img.shields.io/badge/English_Version-1877F2?style=plastic&logoColor=white"/>
   </a>
 </p> 
 
